@@ -1,0 +1,401 @@
+
+
+[2026-08-12T07:14:10.091Z] 500 Vision API error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent: [400 Bad Request] Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+Error: Vision API error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent: [400 Bad Request] Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+    at analyzePlantImage (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/services/plantDoctorService.js:94:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/plantDoctorController.js:23:21
+
+
+[2026-08-12T07:15:38.154Z] 500 Vision API error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent: [400 Bad Request] Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+Error: Vision API error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.6-flash:generateContent: [400 Bad Request] Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+    at analyzePlantImage (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/services/plantDoctorService.js:94:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/plantDoctorController.js:23:21
+
+
+[2026-08-12T07:18:09.127Z] 500 Vision API error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent: [400 Bad Request] Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+Error: Vision API error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash:generateContent: [400 Bad Request] Unable to process input image. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+    at analyzePlantImage (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/services/plantDoctorService.js:94:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/plantDoctorController.js:23:21
+
+
+[2026-08-12T07:22:39.750Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:56:13
+
+
+[2026-08-12T08:02:26.775Z] 400 Valid phone number is required, Valid email is required
+Error: Valid phone number is required, Valid email is required
+    at validate (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/middleware/validate.js:9:11)
+    at Layer.handle [as handle_request] (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/route.js:149:13)
+    at middleware (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express-validator/lib/middlewares/check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:02:26.789Z] 400 Valid phone number is required
+Error: Valid phone number is required
+    at validate (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/middleware/validate.js:9:11)
+    at Layer.handle [as handle_request] (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/route.js:149:13)
+    at middleware (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express-validator/lib/middlewares/check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:02:26.836Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:65:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:03:56.426Z] 400 Valid phone number is required, Valid email is required
+Error: Valid phone number is required, Valid email is required
+    at validate (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/middleware/validate.js:9:11)
+    at Layer.handle [as handle_request] (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/route.js:149:13)
+    at middleware (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express-validator/lib/middlewares/check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:04:19.455Z] 400 Valid phone number is required
+Error: Valid phone number is required
+    at validate (file:///home/nikunj/Downloads/kisanBandhu-2/server/src/middleware/validate.js:9:11)
+    at Layer.handle [as handle_request] (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/route.js:149:13)
+    at middleware (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express-validator/lib/middlewares/check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:09:34.790Z] 409 An account with this email or phone already exists
+Error: An account with this email or phone already exists
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:46:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:09:55.867Z] 500 Something went wrong
+MongoServerError: E11000 duplicate key error collection: kisanbandhu.users index: email_1 dup key: { email: null }
+    at InsertOneOperation.handleOk (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/mongodb/lib/operations/insert.js:51:19)
+    at tryOperation (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/mongodb/lib/operations/execute_operation.js:214:34)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async executeOperation (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/mongodb/lib/operations/execute_operation.js:78:16)
+    at async Collection.insertOne (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/mongodb/lib/collection.js:154:16)
+
+
+[2026-08-12T08:11:59.711Z] 401 Authentication token is required
+Error: Authentication token is required
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/middleware/auth.js:11:11
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/utils/asyncHandler.js:2:19
+    at Layer.handle [as handle_request] (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/layer.js:95:5)
+    at /home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/index.js:284:15
+    at router.process_params (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/index.js:280:10)
+    at router.handle (/home/nikunj/Downloads/kisanBandhu-2/server/node_modules/express/lib/router/index.js:175:3)
+
+
+[2026-08-12T08:13:15.695Z] 409 An account with this email or phone already exists
+Error: An account with this email or phone already exists
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:46:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:13:40.398Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:65:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:13:58.595Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:65:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:14:05.346Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:65:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:15:52.615Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:65:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T08:16:03.662Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///home/nikunj/Downloads/kisanBandhu-2/server/src/controllers/authController.js:65:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-12T09:12:50.867Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/authController.js:71:13
+
+
+[2026-08-12T09:13:04.282Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/authController.js:71:13
+
+
+[2026-08-14T06:48:51.647Z] 503 Cloudinary storage is not configured
+Error: Cloudinary storage is not configured
+    at uploadToStorage (file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/services/storageService.js:7:11)
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/socialController.js:566:24
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/utils/asyncHandler.js:2:19
+    at Layer.handle [as handle_request] (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\route.js:149:13)
+    at validate (file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/middleware/validate.js:12:3)
+    at Layer.handle [as handle_request] (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\route.js:149:13)
+    at middleware (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-14T06:48:58.399Z] 503 Cloudinary storage is not configured
+Error: Cloudinary storage is not configured
+    at uploadToStorage (file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/services/storageService.js:7:11)
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/socialController.js:566:24
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/utils/asyncHandler.js:2:19
+    at Layer.handle [as handle_request] (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\route.js:149:13)
+    at validate (file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/middleware/validate.js:12:3)
+    at Layer.handle [as handle_request] (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express\lib\router\route.js:149:13)
+    at middleware (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\express-validator\lib\middlewares\check.js:16:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+
+
+[2026-08-14T06:50:29.834Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/authController.js:71:13
+
+
+[2026-08-14T06:50:36.295Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/authController.js:71:13
+
+
+[2026-08-14T06:50:41.824Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/authController.js:71:13
+
+
+[2026-08-14T07:21:46.121Z] 401 Invalid login credentials
+Error: Invalid login credentials
+    at file:///C:/Users/PC/Downloads/KisanBandhu_Main-main/KisanBandhu_Main-main/server/src/controllers/authController.js:71:13
+
+
+[2026-08-14T07:33:44.214Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:33:44.225Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:33:44.231Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:33:44.245Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:33:44.306Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:33:44.311Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:55.888Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:55.893Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:55.901Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:55.929Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:55.979Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:55.989Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:57.500Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:57.508Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
+
+
+[2026-08-14T07:34:57.511Z] 500 Something went wrong
+MongoServerError: text and geoNear not allowed in same query
+    at Connection.sendCommand (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:306:27)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async Connection.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cmap\connection.js:334:26)
+    at async Server.command (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\sdam\server.js:194:29)
+    at async tryOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:213:32)
+    at async executeOperation (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\operations\execute_operation.js:78:16)
+    at async FindCursor._initialize (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\find_cursor.js:62:26)
+    at async FindCursor.cursorInit (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:632:27)
+    at async FindCursor.fetchBatch (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:666:13)
+    at async FindCursor.next (C:\Users\PC\Downloads\KisanBandhu_Main-main\KisanBandhu_Main-main\server\node_modules\mongodb\lib\cursor\abstract_cursor.js:342:17)
